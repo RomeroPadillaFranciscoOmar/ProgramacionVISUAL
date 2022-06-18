@@ -87,7 +87,7 @@
 <script>
 var juego = function(){
     let tiempo = 50;
-    let velocidad = 20;
+    let velocidad = 40
     let veloBarra = 40;
     let width = document.documentElement.clientWidth - velocidad;
     let height = document.documentElement.clientHeight - velocidad;
